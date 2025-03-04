@@ -29,7 +29,7 @@ if !exists('g:srcery_black')
 endif
 
 if !exists('g:srcery_red')
-  let g:srcery_red='#EF2F27'
+  let g:srcery_red='#a62c21'
 endif
 
 if !exists('g:srcery_green')
